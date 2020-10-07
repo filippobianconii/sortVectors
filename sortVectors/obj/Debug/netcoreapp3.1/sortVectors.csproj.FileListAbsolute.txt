@@ -1,0 +1,13 @@
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.exe
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.deps.json
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.runtimeconfig.json
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.runtimeconfig.dev.json
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.dll
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\bin\Debug\netcoreapp3.1\sortVectors.pdb
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.csprojAssemblyReference.cache
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.AssemblyInfoInputs.cache
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.AssemblyInfo.cs
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.csproj.CoreCompileInputs.cache
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.dll
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.pdb
+C:\Users\filippo.bianconi\Documents\sortVectors\sortVectors\obj\Debug\netcoreapp3.1\sortVectors.genruntimeconfig.cache
