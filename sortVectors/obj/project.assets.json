@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\filippo.bianconi\\.nuget\\packages\\": {},
+    "C:\\Users\\Leonardo.Baldazzi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filippo.bianconi\\Documents\\sortVectors\\sortVectors\\sortVectors.csproj",
+      "projectUniqueName": "Z:\\sortVectors\\sortVectors\\sortVectors.csproj",
       "projectName": "sortVectors",
-      "projectPath": "C:\\Users\\filippo.bianconi\\Documents\\sortVectors\\sortVectors\\sortVectors.csproj",
-      "packagesPath": "C:\\Users\\filippo.bianconi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filippo.bianconi\\Documents\\sortVectors\\sortVectors\\obj\\",
+      "projectPath": "Z:\\sortVectors\\sortVectors\\sortVectors.csproj",
+      "packagesPath": "C:\\Users\\Leonardo.Baldazzi\\.nuget\\packages\\",
+      "outputPath": "Z:\\sortVectors\\sortVectors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\filippo.bianconi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Leonardo.Baldazzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
